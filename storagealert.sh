@@ -1,3 +1,6 @@
+#This is a script to know,how much of your storage is full.
+# When you run it ,it gives you a warning if the storage is exceeding the percentage you mentioned in the script or it gives its under control
+
 #!/bin/bash
 
 # Disk usage threshold percentage
